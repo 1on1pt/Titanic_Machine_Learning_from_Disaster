@@ -6,6 +6,9 @@
 
 ![titanic_3](https://user-images.githubusercontent.com/94148420/167033899-3a6d3731-616b-4603-a9ef-29ccbaa730b9.jpg)
 
+![titanic_4](https://user-images.githubusercontent.com/94148420/167034054-0c60120e-098d-44bb-8301-98f20a80d85f.jpg)
+
+
 
 ## Communication Protocols
 * Slack "group-project-channel"
